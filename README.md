@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer → MERN Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jowel.bintofajjal.com-0f172a?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jowel.bintofajjal.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jowel.bintofajjal.com-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jowel.bintofajjal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jowelislamhabib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jowelislamhabib/)
 [![Email](https://img.shields.io/badge/Email-jowel@bintofajjal.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jowel@bintofajjal.com)
 [![PPH](https://img.shields.io/badge/PeoplePerHour-Profile-EE6C4D?style=for-the-badge&logo=freelancer&logoColor=white)](https://pph.me/bintofajjal)
