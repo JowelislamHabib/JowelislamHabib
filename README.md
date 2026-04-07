@@ -12,12 +12,6 @@
 
 </div>
 
----
-<div align="center">
-
-![snake gif](https://github.com/JowelislamHabib/JowelislamHabib/blob/output/github-snake-dark.svg)
-
-</div>
 
 ---
 
@@ -153,6 +147,12 @@ What makes me different is my **practical web foundation**: I understand not onl
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JowelislamHabib&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72)
+
+</div>
+
+<div align="center">
+
+![snake gif](https://github.com/JowelislamHabib/JowelislamHabib/blob/output/github-snake-dark.svg)
 
 </div>
 
