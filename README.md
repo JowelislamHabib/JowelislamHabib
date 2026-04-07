@@ -79,7 +79,7 @@ What makes me different is my **practical web foundation**: I understand not onl
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Simple BookStore** | Book discovery app with React Router, persistent Read List & Wishlist via LocalStorage, editorial UI | React, Router, Tailwind, DaisyUI | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/bookstore/) · [GitHub](https://github.com/JowelislamHabib/Simple-React-Route-BookStore) |
+| **Simple BookStore** | Book discovery app with React Router, persistent Read List & Wishlist via LocalStorage, editorial UI | React, Router, Tailwind, DaisyUI | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/simple-bookstore/) · [GitHub](https://github.com/JowelislamHabib/Simple-React-Route-BookStore) |
 | **DigiTools Platform** | Digital tools e-commerce UI with dynamic cart, real-time add/remove, toast notifications | React, Tailwind, JS | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/digitools/) · [GitHub](https://github.com/JowelislamHabib/DigiTools-Platform) |
 | **Get Advice** | Async data app using React Suspense + experimental `use()` hook for clean promise-based flow | React 19, Suspense, API | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/get-advice/) · [GitHub](https://github.com/JowelislamHabib/Get-Advice) |
 
