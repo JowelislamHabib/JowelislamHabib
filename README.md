@@ -16,7 +16,7 @@
 
 ---
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+ABOUT+ME)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+ABOUT+ME)
 
 
 I'm a web developer with **hands-on experience since 2016**, helping clients build, fix, and manage websites from WordPress customization to malware cleanup and server migrations.
@@ -34,7 +34,7 @@ What makes me different is my **practical web foundation**: I understand not onl
 
 ---
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
 
 - 🌱 **Mastering** MERN Stack — React.js, Node.js, Express.js, MongoDB
 - 🏗️ **Building** full-stack projects to demonstrate real-world skills
