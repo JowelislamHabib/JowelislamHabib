@@ -113,6 +113,7 @@ See Projects  ⤵
 See Testimonials  ⤵
 </summary>
 
+
 > *"Well done! He did go the extra mile to make the job complete. I would have given you 6 stars if possible."*
 > — **Ray**, Owner @essenundkultur.org
 
@@ -142,6 +143,7 @@ See Testimonials  ⤵
 Educational History  ⤵
 </summary>
 
+
 | Institution | Qualification | Period |
 |-------------|--------------|--------|
 | Bangladesh Open University | Diploma in Computer Science & Application | Feb 2026 – Present |
@@ -160,6 +162,7 @@ Educational History  ⤵
 <summary>
 See Certificates  ⤵
 </summary>
+
  
 - 🇧🇩 **Government Approved Freelancer** — Bangladesh
   - 🪪 Freelancer ID: `F126514352198`
