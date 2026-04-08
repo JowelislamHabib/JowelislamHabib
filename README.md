@@ -2,7 +2,8 @@
 
 # Hi there, I'm Jowel Islam Habib 👋
 
-### Full-Stack Web Developer → MERN Stack Developer
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jowel.bintofajjal.com-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jowel.bintofajjal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jowelislamhabib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jowelislamhabib/)
@@ -15,13 +16,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+ABOUT+ME)
 
-I'm a web developer with **hands-on experience since 2016**, helping clients build, fix, and manage websites — from WordPress customization to malware cleanup and server migrations.
+
+I'm a web developer with **hands-on experience since 2016**, helping clients build, fix, and manage websites from WordPress customization to malware cleanup and server migrations.
 
 Currently, I'm **fully focused on MERN Stack development**, building scalable and user-friendly full-stack applications using **React.js, Node.js, Express.js, and MongoDB**.
 
-What makes me different is my **practical web foundation**: I understand not only how to build interfaces, but also how websites are deployed, maintained, secured, and optimized in real environments — from server setup and hosting to performance tuning and security hardening.
+What makes me different is my **practical web foundation**: I understand not only how to build interfaces, but also how websites are deployed, maintained, secured, and optimized in real environments from server setup and hosting to performance tuning and security hardening.
 
 ```
 💼 Experience since 2016 — web development, server admin, security & migrations
@@ -32,7 +34,7 @@ What makes me different is my **practical web foundation**: I understand not onl
 
 ---
 
-## 🔥 What I'm Up To
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
 
 - 🌱 **Mastering** MERN Stack — React.js, Node.js, Express.js, MongoDB
 - 🏗️ **Building** full-stack projects to demonstrate real-world skills
@@ -42,31 +44,31 @@ What makes me different is my **practical web foundation**: I understand not onl
 
 ---
 
-## 🛠️ Tech Stack
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
 
-### 🔷 MERN Stack (Currently Mastering)
+### MERN Stack (Currently Mastering)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 🔷 Frontend
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🔷 Backend & Database
+### Backend & Database
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🔷 CMS & Platforms
+### CMS & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![XenForo](https://img.shields.io/badge/XenForo-FF6600?style=flat-square&logo=xenforo&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 
-### 🔷 Tools & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -75,7 +77,11 @@ What makes me different is my **practical web foundation**: I understand not onl
 
 ---
 
-## 🚀 Featured Projects
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
+<details> 
+  <summary>
+See Projects  ⤵
+  </summary>
 
 ### ⚛️ React.js Projects
 
@@ -84,7 +90,7 @@ What makes me different is my **practical web foundation**: I understand not onl
 | **Simple BookStore** | Book discovery app with React Router, persistent Read List & Wishlist via LocalStorage, editorial UI | React, Router, Tailwind, DaisyUI | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/simple-bookstore/) · [GitHub](https://github.com/JowelislamHabib/Simple-React-Route-BookStore) |
 | **DigiTools Platform** | Digital tools e-commerce UI with dynamic cart, real-time add/remove, toast notifications | React, Tailwind, JS | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/digitools/) · [GitHub](https://github.com/JowelislamHabib/DigiTools-Platform) |
 | **Get Advice** | Async data app using React Suspense + experimental `use()` hook for clean promise-based flow | React 19, Suspense, API | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/get-advice/) · [GitHub](https://github.com/JowelislamHabib/Get-Advice) |
-
+ 
 ### 🌐 WordPress & Web Projects
 
 | Project | Description | Tech | Live |
@@ -96,12 +102,16 @@ What makes me different is my **practical web foundation**: I understand not onl
 | **Salafi Forum** | Full community platform with role-based permissions & custom theme | XenForo, PHP, MySQL | [🔗 Live](https://salafiforum.com/) |
 | **Telegage** | Modern business website — Elementor-based responsive build | WordPress, Elementor | [🔗 Live](https://telegage.io/) |
 | **Cartecadeau PF** | Full malware cleanup, secure VPS migration, SSL & DNS configuration | WordPress, Cloudways, VPS | [🔗 Live](https://cartecadeaupf.com/) |
-
 > 💬 **Ask me about:** MERN Stack development · Frontend UI/UX with React & Tailwind CSS · Backend APIs · WordPress & server administration · Website security & malware cleanup
+</details> 
 
 ---
 
-## 💬 What Clients Say
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%92%AC+WHAT+CLIENTS+SAY)
+<details> 
+<summary>
+See Testimonials  ⤵
+</summary>
 
 > *"Well done! He did go the extra mile to make the job complete. I would have given you 6 stars if possible."*
 > — **Ray**, Owner @essenundkultur.org
@@ -120,9 +130,17 @@ What makes me different is my **practical web foundation**: I understand not onl
 
 [📋 View all reviews on PeoplePerHour →](https://pph.me/bintofajjal)
 
+</details> 
+
 ---
 
-## 🎓 Education
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
+
+<details> 
+
+<summary>
+Educational History  ⤵
+</summary>
 
 | Institution | Qualification | Period |
 |-------------|--------------|--------|
@@ -131,14 +149,24 @@ What makes me different is my **practical web foundation**: I understand not onl
 | Madan Mohan College | HSC – Business Studies | 2013 – 2015 |
 | Siraj Uddin Sarker Bidyaniketan | SSC – Business Studies | 2011 – 2013 |
 
+</details> 
+
 ---
 
-## 🏆 Certifications
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8F%86+CERTIFICATIONS)
+
+<details> 
+
+<summary>
+See Certificates  ⤵
+</summary>
  
 - 🇧🇩 **Government Approved Freelancer** — Bangladesh
   - 🪪 Freelancer ID: `F126514352198`
 - 🎖️ **Certified Web Design Specialist**
   - 📄 Certificate No.: `13/WD/DHK-66/0051` · Reg. No.: `213390`
+
+</details>
 
 ---
 
@@ -146,7 +174,7 @@ What makes me different is my **practical web foundation**: I understand not onl
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JowelislamHabib&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JowelislamHabib&theme=gruvbox-duo&fire=FF882C&currStreakLabel=EB5454)
 
 </div>
 
