@@ -29,7 +29,7 @@ What makes me different is my **practical web foundation**: I understand not onl
 💼 Experience since 2016 — web development, server admin, security & migrations
 🚀 Now building: Full-Stack MERN applications
 🎯 Seeking: MERN Stack Developer | Frontend Developer | Junior Full-Stack Developer
-📍 Based in: Bangladesh  |  🌍 Open to: Remote & On-site Opportunities
+📍 Based in: Narayanganj, Dhaka, Bangladesh  |  🌍 Open to: Remote & On-site Opportunities
 ```
 
 ---
@@ -85,7 +85,7 @@ What makes me different is my **practical web foundation**: I understand not onl
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
 <details> 
   <summary>
-See Projects  ⤵
+Explore My Work  ⤵
   </summary>
 
 ### ⚛️ React.js Projects
@@ -115,7 +115,7 @@ See Projects  ⤵
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%92%AC+WHAT+CLIENTS+SAY)
 <details> 
 <summary>
-See Testimonials  ⤵
+Read Testimonials  ⤵
 </summary>
 
 
@@ -145,7 +145,7 @@ See Testimonials  ⤵
 <details> 
 
 <summary>
-Educational History  ⤵
+View Academic Background  ⤵
 </summary>
 
 
@@ -165,7 +165,7 @@ Educational History  ⤵
 <details> 
 
 <summary>
-See Certificates  ⤵
+View Certifications  ⤵
 </summary>
 
  
