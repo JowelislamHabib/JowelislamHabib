@@ -19,17 +19,12 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=ABOUT+ME)
 
 
-I'm a web developer with **hands-on experience since 2016**, helping clients build, fix, and manage websites from WordPress customization to malware cleanup and server migrations.
-
-Currently, I'm **fully focused on MERN Stack development**, building scalable and user-friendly full-stack applications using **React.js, Node.js, Express.js, and MongoDB**.
-
-What makes me different is my **practical web foundation**: I understand not only how to build interfaces, but also how websites are deployed, maintained, secured, and optimized in real environments from server setup and hosting to performance tuning and security hardening.
+Hi 👋, I'm a Junior MERN Stack Developer focused on building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB. I come from a strong real-world background in CMS development, server management, and working with live production systems. That experience helps me go beyond just writing code—I understand deployment, performance, and how applications behave in real environments.
 
 ```
-💼 Experience since 2016 — web development, server admin, security & migrations
-🚀 Now building: Full-Stack MERN applications
-🎯 Seeking: MERN Stack Developer | Frontend Developer | Junior Full-Stack Developer
-📍 Based in: Narayanganj, Dhaka, Bangladesh  |  🌍 Open to: Remote & On-site Opportunities
+🌍 Open to: Remote & On-site Opportunities
+🎯 Seeking: Frontend Developer | Junior MERN Stack Developer 
+🚀 Focus: Full-Stack MERN applications (MongoDB, Express, React, Next.js)
 ```
 
 ---
