@@ -96,13 +96,14 @@ Hi 👋, I'm a Junior MERN Stack Developer focused on building full-stack web ap
 Explore My Work  ⤵
   </summary>
 
-### ⚛️ React.js Projects
+
+### Full Stack Projects
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Simple BookStore** | Book discovery app with React Router, persistent Read List & Wishlist via LocalStorage, editorial UI | React, Router, Tailwind, DaisyUI | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/simple-bookstore/) · [GitHub](https://github.com/JowelislamHabib/Simple-React-Route-BookStore) |
-| **DigiTools Platform** | Digital tools e-commerce UI with dynamic cart, real-time add/remove, toast notifications | React, Tailwind, JS | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/digitools/) · [GitHub](https://github.com/JowelislamHabib/DigiTools-Platform) |
-| **Get Advice** | Async data app using React Suspense + experimental `use()` hook for clean promise-based flow | React 19, Suspense, API | [🔗 Live](https://jowel.bintofajjal.com/project-reactjs/get-advice/) · [GitHub](https://github.com/JowelislamHabib/Get-Advice) |
+| **QuietHub — Room & Workspace Booking Platform** | Full-stack booking platform with JWT authentication, protected APIs, room management, reservation system, rescheduling, and backend validation to prevent overlapping bookings | Next.js, React, Express.js, MongoDB, Better Auth, JWT, Tailwind, HeroUI | [🔗 Live](https://quiethub.vercel.app/) · [GitHub](https://github.com/JowelislamHabib/QuietHub--Where-Deep-Focus-Begins) |
+| **Odyssey — Travel & Destination Booking Platform** | Travel booking platform featuring authentication, destination discovery, booking dashboard, itinerary management, and responsive protected user flows | Next.js 16, React 19, MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live](https://odyssey-travels.vercel.app) · [GitHub](https://github.com/JowelislamHabib/Odyssey-Travel-Destination-Booking-Platform) |
+
  
 ### 🌐 WordPress & Web Projects
 
