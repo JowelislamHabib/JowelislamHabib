@@ -31,7 +31,7 @@ Hi 👋, I'm a Junior MERN Stack Developer focused on building full-stack web ap
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
 
-- 🌱 **Mastering** MERN Stack — React.js, Node.js, Express.js, MongoDB
+- 🌱 **Mastering** MERN Stack — Next.js React.js, Node.js, Express.js, MongoDB
 - 🏗️ **Building** full-stack projects to demonstrate real-world skills
 - 🤝 **Looking to collaborate** on web applications, dynamic dashboards, or e-commerce platforms
 - 🤝 **Looking for guidance** on scalable app architecture, performance/security best practices, and CI/CD deployment
