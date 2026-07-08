@@ -18,7 +18,7 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=ABOUT+ME)
 
 
-Hi 👋, I'm a MERN Stack Developer focused on building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB. I come from a strong real-world background in CMS development, server management, and working with live production systems. That experience helps me go beyond just writing code—I understand deployment, performance, and how applications behave in real environments.
+Hi 👋, I'm a MERN Stack Developer who bridges the gap between AI efficiency and manual precision. Backed by a strong background in server management, CMS development, and live production environments, I understand the deep "how" behind the code. I use AI to accelerate complex logic and UI development while ensuring every application remains highly secure, scalable, and optimized for performance.
 
 ```
 🌍 Open to: Remote & On-site Opportunities
