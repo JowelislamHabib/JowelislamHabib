@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Github Banner](https://i.postimg.cc/rmJnwm77/Github-Banner.png)
+![Github Banner](https://i.postimg.cc/02V2T0jq/Github-Banner-TF.png)
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jowel.bintofajjal.com-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jowel.bintofajjal.com)
