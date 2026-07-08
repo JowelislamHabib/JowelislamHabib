@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Jowel Islam Habib 👋
 
-### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
+![Github Banner](https://i.postimg.cc/rmJnwm77/Github-Banner.png)
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jowel.bintofajjal.com-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jowel.bintofajjal.com)
@@ -19,11 +18,11 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=ABOUT+ME)
 
 
-Hi 👋, I'm a Junior MERN Stack Developer focused on building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB. I come from a strong real-world background in CMS development, server management, and working with live production systems. That experience helps me go beyond just writing code—I understand deployment, performance, and how applications behave in real environments.
+Hi 👋, I'm a MERN Stack Developer focused on building full-stack web applications using React, Next.js, Node.js, Express, and MongoDB. I come from a strong real-world background in CMS development, server management, and working with live production systems. That experience helps me go beyond just writing code—I understand deployment, performance, and how applications behave in real environments.
 
 ```
 🌍 Open to: Remote & On-site Opportunities
-🎯 Seeking: Frontend Developer | Junior MERN Stack Developer 
+🎯 Seeking: Frontend Developer | MERN Stack Developer 
 🚀 Focus: Full-Stack MERN applications (MongoDB, Express, React, Next.js)
 ```
 
