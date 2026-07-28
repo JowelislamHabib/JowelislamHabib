@@ -197,7 +197,11 @@ View Certifications  ⤵
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake-light.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake-light.svg" />
+</picture>
 
 </div>
 
