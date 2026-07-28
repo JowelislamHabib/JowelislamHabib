@@ -191,7 +191,7 @@ View Certifications  ⤵
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JowelislamHabib&theme=gruvbox-duo&fire=FF882C&currStreakLabel=EB5454&cache_seconds=1800)
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
