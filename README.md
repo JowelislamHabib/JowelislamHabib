@@ -18,7 +18,7 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=ABOUT+ME)
 
 
-Hi 👋, I'm a MERN Stack Developer who bridges the gap between AI efficiency and manual precision. Backed by a strong background in server management, CMS development, and live production environments, I understand the deep "how" behind the code. I use AI to accelerate complex logic and UI development while ensuring every application remains highly secure, scalable, and optimized for performance.
+Hi 👋, I'm a MERN Stack Developer who bridges the gap between AI efficiency and manual precision. Backed by a strong background in server management, CMS development, and live production environments, I thrive on delivering scalable, secure, and high-performance digital solutions.
 
 ```
 🌍 Open to: Remote & On-site Opportunities
@@ -100,8 +100,9 @@ Explore My Work  ⤵
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **QuietHub — Room & Workspace Booking Platform** | Full-stack booking platform with JWT authentication, protected APIs, room management, reservation system, rescheduling, and backend validation to prevent overlapping bookings | Next.js, React, Express.js, MongoDB, Better Auth, JWT, Tailwind, HeroUI | [🔗 Live](https://quiethub.vercel.app/) · [GitHub](https://github.com/JowelislamHabib/QuietHub--Where-Deep-Focus-Begins) |
-| **Odyssey — Travel & Destination Booking Platform** | Travel booking platform featuring authentication, destination discovery, booking dashboard, itinerary management, and responsive protected user flows | Next.js 16, React 19, MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live](https://odyssey-travels.vercel.app) · [GitHub](https://github.com/JowelislamHabib/Odyssey-Travel-Destination-Booking-Platform) |
+| **GestorFitness — Fitness & Gym Management Platform** | Full-stack B2C fitness marketplace where users discover/book classes, trainers manage sessions, and admins moderate the platform with secure role-based controls. | Next.js 16, React 19, BetterAuth, MongoDB, Stripe, Tailwind CSS | [🔗 Live](https://gestorfitness.vercel.app/) |
+| **AreaAlert — Community Utility Outage & Service Status Platform** | Community-driven outage reporting platform for electricity, internet, water, gas, and floods with verification, safety map, filters, and admin moderation. | Next.js 16, React 19, TypeScript, Express 5, MongoDB, Better Auth, Tailwind CSS | [🔗 Live](https://area-alert-bd.vercel.app) |
+| **IdeaDen — AI-Powered Project Idea & Blog Generator** | AI-powered full-stack platform that turns raw ideas into structured project plans and SEO-ready blog content with personalized generation and analytics dashboard. | Next.js 16, React 19, TypeScript, Express 5, MongoDB, Gemini AI, Tailwind CSS | [🔗 Live](https://ideaden.vercel.app) |
 
  
 ### 🌐 WordPress & Web Projects
