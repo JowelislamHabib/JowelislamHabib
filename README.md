@@ -197,7 +197,7 @@ View Certifications  ⤵
 
 <div align="center">
 
-![snake gif](https://github.com/JowelislamHabib/JowelislamHabib/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake.svg)
 
 </div>
 
