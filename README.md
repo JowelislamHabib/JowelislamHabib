@@ -1,235 +1,286 @@
 <div align="center">
 
-
 ![Github Banner](https://i.postimg.cc/02V2T0jq/Github-Banner-TF.png)
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=FF7B72&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(Next.js+%E2%80%A2+MERN+%E2%80%A2+TypeScript);Building+Scalable+Web+Apps+%26+AI-Powered+Solutions;45%2B+Completed+Client+Projects+%26+Server+Infrastructure" alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jowel.bintofajjal.com-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jowel.bintofajjal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jowelislamhabib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jowelislamhabib/)
 [![Email](https://img.shields.io/badge/Email-jowel@bintofajjal.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jowel@bintofajjal.com)
 [![PPH](https://img.shields.io/badge/PeoplePerHour-Profile-EE6C4D?style=for-the-badge&logo=freelancer&logoColor=white)](https://pph.me/bintofajjal)
-![User](https://komarev.com/ghpvc/?username=JowelislamHabib&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=JowelislamHabib&style=for-the-badge&color=0e75b6)
 
 </div>
 
+<br/>
 
----
+<!-- ==================== BENTO SECTION 1: BIO, STATUS & UNIFORM ICON STACK ==================== -->
+<table>
+  <tr>
+    <!-- BENTO BOX 1: ABOUT ME (Spans 2 columns) -->
+    <td colspan="2" width="62%" valign="top">
+      <br/>
+      <h3>&nbsp;About Me</h3>
+      <p>
+        I'm <b>Jowel Islam Habib</b>, a Full-Stack Web Developer combining modern application architecture with practical AI integration. Backed by years of hands-on experience in Linux server management, CMS platforms, and live production environments, I build scalable, secure, and high-performance web applications.
+      </p>
+      <ul>
+        <li><b>Core Stack:</b> Next.js, React, TypeScript, Node.js, Express, and MongoDB</li>
+        <li><b>AI Engineering:</b> Integrating Google Gemini API for automated workflows and SaaS tools</li>
+        <li><b>Infrastructure:</b> Linux VPS administration, Cloudflare DNS/SSL, and cloud deployments</li>
+      </ul>
+      <br/>
+    </td>
+    <!-- BENTO BOX 2: CURRENT STATUS (1 column - No Vertical Bar, No Quote) -->
+    <td width="38%" valign="top">
+      <br/>
+      <h3>&nbsp;Current Status</h3>
+      <ul>
+        <li><b>Current Role:</b> Frontend Developer <code>@ Roaming Bangladesh</code></li>
+        <li><b>Work Mode:</b> Remote & On-site</li>
+        <li><b>Focus:</b> Full-Stack & Frontend Engineering</li>
+        <li><b>Track Record:</b> 45+ Client Projects</li>
+        <li><b>Freelancer ID:</b> <code>F126514352198</code></li>
+      </ul>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <!-- BENTO BOX 3: FRONTEND & CORE (8 Icons: 4x2 Grid) -->
+    <td width="33.3%" valign="top" align="center">
+      <img width="1000" height="0" />
+      <h4 align="center">&nbsp;&nbsp;Frontend & Core</h4>
+      <br/>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css&perline=4" alt="Frontend Stack" />
+      </p>
+      <br/>
+    </td>
+    <!-- BENTO BOX 4: BACKEND & INFRA (8 Icons: 4x2 Grid) -->
+    <td width="33.3%" valign="top" align="center">
+      <img width="1000" height="0" />
+      <h4 align="center">&nbsp;&nbsp;Backend & Cloud</h4>
+      <br/>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,linux,cloudflare&perline=4" alt="Backend Stack" />
+      </p>
+      <br/>
+    </td>
+    <!-- BENTO BOX 5: TOOLS, CMS & DESIGN (4x2 Uniform 48x48 Square Grid with Shopify & XenForo) -->
+    <td width="33.3%" valign="top" align="center">
+      <img width="1000" height="0" />
+      <h4 align="center">&nbsp;&nbsp;Tools, CMS & Design</h4>
+      <br/>
+      <p align="center">
+        <!-- Row 1: 4 Square Icons -->
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" height="48" alt="Dev Tools" />
+        <br/>
+        <!-- Row 2: Figma, WordPress + Matched 48x48 Square Icons for Shopify & XenForo -->
+        <img src="https://skillicons.dev/icons?i=figma,wordpress" height="48" alt="Figma & WordPress" />&nbsp;<img src="https://cdn.simpleicons.org/shopify/95BF47" width="48" height="48" alt="Shopify" />&nbsp;<img src="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/main/assets/xenforo.png" width="48" height="48" alt="XenForo" />
+      </p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <!-- BENTO BOX 6: FULL-WIDTH SPECIALIZED APIS, DESIGN SOFTWARE & INTEGRATIONS -->
+    <td colspan="3" align="center" valign="middle">
+      <br/>
+      <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+      <img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Better Auth" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+      <img src="https://img.shields.io/badge/Ps-Adobe_Photoshop-31A8FF?style=for-the-badge&labelColor=001E36" alt="Adobe Photoshop" />
+      <img src="https://img.shields.io/badge/Ai-Adobe_Illustrator-FF9A00?style=for-the-badge&labelColor=330000" alt="Adobe Illustrator" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=ABOUT+ME)
+<br/>
 
+<!-- ==================== BENTO SECTION 2: FEATURED PROJECTS (WITH REPO FAVICONS + LOCKED BUTTONS) ==================== -->
+<h3>Featured Full-Stack Applications</h3>
 
-Hi 👋, I'm a MERN Stack Developer who bridges the gap between AI efficiency and manual precision. Backed by a strong background in server management, CMS development, and live production environments, I thrive on delivering scalable, secure, and high-performance digital solutions.
+<table>
+  <!-- ROW 1: FAVICONS, PROJECT TITLES, TAGS & DESCRIPTIONS -->
+  <tr>
+    <!-- PROJECT 1 CONTENT -->
+    <td width="33.3%" valign="top">
+      <img width="1000" height="0" />
+      <br/>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/JowelislamHabib/GestorFitness-client/main/public/GestorFitness.png" height="48" alt="GestorFitness Logo" />
+      </p>
+      <h3 align="center">GestorFitness</h3>
+      <p align="center">
+        <kbd>Next.js 16</kbd> <kbd>React 19</kbd> <kbd>MongoDB</kbd> <kbd>Stripe</kbd>
+      </p>
+      <p align="center">
+        <b>B2C Fitness Marketplace</b>
+      </p>
+      <p>
+        Full-stack platform where users discover and book classes, trainers manage sessions, and admins moderate operations with Role-Based Access Control (RBAC).
+      </p>
+    </td>
+    <!-- PROJECT 2 CONTENT -->
+    <td width="33.3%" valign="top">
+      <img width="1000" height="0" />
+      <br/>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/JowelislamHabib/Area-Alert/main/public/areaalert-favicon.png" height="48" alt="AreaAlert Logo" />
+      </p>
+      <h3 align="center">AreaAlert</h3>
+      <p align="center">
+        <kbd>Next.js 16</kbd> <kbd>TypeScript</kbd> <kbd>Express 5</kbd> <kbd>MongoDB</kbd>
+      </p>
+      <p align="center">
+        <b>Utility & Outage Tracker</b>
+      </p>
+      <p>
+        Community-driven outage reporting system for electricity, water, gas, and floods featuring verification workflows, interactive safety maps, and moderation.
+      </p>
+    </td>
+    <!-- PROJECT 3 CONTENT -->
+    <td width="33.3%" valign="top">
+      <img width="1000" height="0" />
+      <br/>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/JowelislamHabib/Idea-Den/main/public/ideaden-favicon.png" height="48" alt="IdeaDen Logo" />
+      </p>
+      <h3 align="center">IdeaDen</h3>
+      <p align="center">
+        <kbd>Next.js 16</kbd> <kbd>TypeScript</kbd> <kbd>Gemini AI</kbd> <kbd>Express 5</kbd>
+      </p>
+      <p align="center">
+        <b>AI Project & SEO Suite</b>
+      </p>
+      <p>
+        AI-powered platform that transforms raw concepts into structured technical blueprints and SEO-ready blog articles with an integrated analytics dashboard.
+      </p>
+    </td>
+  </tr>
+  <!-- ROW 2: DEDICATED ACTION FOOTER (Locks all 3 buttons on the exact same horizontal line) -->
+  <tr>
+    <td width="33.3%" align="center" valign="middle">
+      <br/>
+      <a href="https://gestorfitness.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
+      <br/>
+      <a href="https://area-alert-bd.vercel.app">
+        <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
+      <br/>
+      <a href="https://ideaden.vercel.app">
+        <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-```
-🌍 Open to: Remote & On-site Opportunities
-🎯 Seeking: Frontend Developer | MERN Stack Developer 
-🚀 Focus: Full-Stack MERN applications (MongoDB, Express, React, Next.js)
-```
+<br/>
 
----
+<!-- ==================== BENTO SECTION 3: ACTIVITY & REVIEWS ==================== -->
+<h3>Activity & Client Feedback</h3>
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
+<table>
+  <tr>
+    <!-- GITHUB STREAK CARD -->
+    <td width="50%" valign="middle" align="center">
+      <img width="1000" height="0" />
+      <br/>
+      <img src="./profile/streak.svg" alt="GitHub Streak" width="92%" />
+      <br/><br/>
+    </td>
+    <!-- CLIENT TESTIMONIALS BENTO CARD -->
+    <td width="50%" valign="top">
+      <img width="1000" height="0" />
+      <br/>
+      <h4>&nbsp;&nbsp;Client Testimonials</h4>
+      <blockquote>
+        <i>"Wow. Very impressive. Jowel sped up my site by 4X within a day. No kidding! Absolute gem."</i><br/>
+        — <b>Thomas Dunn</b>, Marketing Consultant 🇮🇹
+      </blockquote>
+      <blockquote>
+        <i>"Jowel is very experienced. He delivered the job as requested. I strongly recommend him."</i><br/>
+        — <b>Estidama Holding</b>, Riyadh 🇸🇦
+      </blockquote>
+      <p align="right">
+        <a href="https://pph.me/bintofajjal">View all 45+ verified reviews →</a>&nbsp;&nbsp;
+      </p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <!-- CONTRIBUTION SNAKE (Spans full width of the bento) -->
+    <td colspan="2" align="center">
+      <br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake-dark.svg" />
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake.svg" width="96%" />
+      </picture>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-- 🌱 **Mastering** MERN Stack — Next.js React.js, Node.js, Express.js, MongoDB
-- 🏗️ **Building** full-stack projects to demonstrate real-world skills
-- 🤝 **Looking to collaborate** on web applications, dynamic dashboards, or e-commerce platforms
-- 🤝 **Looking for guidance** on scalable app architecture, performance/security best practices, and CI/CD deployment
-- ⚡ **Fun fact:** I bring the jokes 😄, and ship the code 💻
+<br/>
 
----
+<!-- ==================== BENTO SECTION 4: EQUAL-WIDTH DRAWERS ==================== -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Invisible spacer locks column at exactly 50% width even when minimized -->
+      <img width="1000" height="0" />
+      <details>
+        <summary><b>Commercial CMS & Infrastructure Portfolio (7+ Live Sites)</b></summary>
+        <br/>
+        <ul>
+          <li><b><a href="https://www.cointax.co.uk/">CoinTax (UK)</a></b> — Figma-to-WordPress build for UK crypto accounting firm</li>
+          <li><b><a href="https://comallies.com/">ComAllies</a></b> — Corporate communications & public affairs platform</li>
+          <li><b><a href="https://cartecadeaupf.com/">Cartecadeau PF</a></b> — Malware cleanup, Cloudways VPS migration & SSL/DNS</li>
+          <li><b><a href="https://salafiforum.com/">Salafi Forum</a></b> — Custom XenForo community architecture & permissions</li>
+          <li><b><a href="https://believersvision.com/">Believers Vision</a></b> — Digital publications & e-book platform</li>
+          <li><b><a href="https://abdulhamidalfaizialmadani.com/">Abdul Hamid Al Faizi</a></b> — Author digital library & review system</li>
+          <li><b><a href="https://telegage.io/">Telegage</a></b> — Modern responsive B2B web build</li>
+        </ul>
+        <br/>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Invisible spacer locks column at exactly 50% width even when minimized -->
+      <img width="1000" height="0" />
+      <details>
+        <summary><b>Education & Professional Credentials</b></summary>
+        <br/>
+        <ul>
+          <li><b>Diploma in Computer Science & Application</b> — Bangladesh Open University (2026)</li>
+          <li><b>Certified Web Design Specialist</b> — BASIS BITM (<code>13/WD/DHK-66/0051</code>)</li>
+          <li><b>Government Approved Freelancer</b> — Bangladesh (<code>F126514352198</code>)</li>
+          <li><b>BA in English (Undergraduate Studies)</b> — Asian University of Bangladesh</li>
+        </ul>
+        <br/>
+      </details>
+    </td>
+  </tr>
+</table>
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
-
-**➦ MERN Stack (Currently Mastering)**
-
------
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**➦ Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=vercel&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**➦ Backend & Database**
-
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better--Auth-7C3AED?style=for-the-badge&logo=shield&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**➦ CMS & Platforms**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![XenForo](https://img.shields.io/badge/XenForo-0F578A?style=for-the-badge&logo=xenforo&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-
-**➦ Automation**
-
-![IFTTT](https://img.shields.io/badge/IFTTT-0080FF?style=for-the-badge&logo=ifttt&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-**➦ Software**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-A-001e36?logo=adobephotoshop&logoColor=fff&style=for-the-badge&colorA=001e36&colorB=31a8ff)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-Ai-330000?logo=adobeillustrator&logoColor=fff&style=for-the-badge&colorA=330000&colorB=ff9a00)
-
-**➦ Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SSL/DNS](https://img.shields.io/badge/SSL%20%2F%20DNS-009688?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
-<details> 
-  <summary>
-Explore My Work  ⤵
-  </summary>
-
-
-### Full Stack Projects
-
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **GestorFitness — Fitness & Gym Management Platform** | Full-stack B2C fitness marketplace where users discover/book classes, trainers manage sessions, and admins moderate the platform with secure role-based controls. | Next.js 16, React 19, BetterAuth, MongoDB, Stripe, Tailwind CSS | [🔗 Live](https://gestorfitness.vercel.app/) |
-| **AreaAlert — Community Utility Outage & Service Status Platform** | Community-driven outage reporting platform for electricity, internet, water, gas, and floods with verification, safety map, filters, and admin moderation. | Next.js 16, React 19, TypeScript, Express 5, MongoDB, Better Auth, Tailwind CSS | [🔗 Live](https://area-alert-bd.vercel.app) |
-| **IdeaDen — AI-Powered Project Idea & Blog Generator** | AI-powered full-stack platform that turns raw ideas into structured project plans and SEO-ready blog content with personalized generation and analytics dashboard. | Next.js 16, React 19, TypeScript, Express 5, MongoDB, Gemini AI, Tailwind CSS | [🔗 Live](https://ideaden.vercel.app) |
-
- 
-### 🌐 WordPress & Web Projects
-
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **CoinTax** | UK cryptocurrency accounting firm — Figma-to-WordPress conversion, full deployment | WordPress, Elementor, Figma | [🔗 Live](https://www.cointax.co.uk/) |
-| **ComAllies** | Corporate communications & public affairs consultancy website | WordPress, PHP, CSS | [🔗 Live](https://comallies.com/) |
-| **Believers Vision** | Islamic books & publications platform | WordPress, PHP, JS | [🔗 Live](https://believersvision.com/) |
-| **Abdul Hamid Al Faizi** | Author website & digital library with book downloads and review system | WordPress, PHP | [🔗 Live](https://abdulhamidalfaizialmadani.com/) |
-| **Salafi Forum** | Full community platform with role-based permissions & custom theme | XenForo, PHP, MySQL | [🔗 Live](https://salafiforum.com/) |
-| **Telegage** | Modern business website — Elementor-based responsive build | WordPress, Elementor | [🔗 Live](https://telegage.io/) |
-| **Cartecadeau PF** | Full malware cleanup, secure VPS migration, SSL & DNS configuration | WordPress, Cloudways, VPS | [🔗 Live](https://cartecadeaupf.com/) |
-> 💬 **Ask me about:** MERN Stack development · Frontend UI/UX with React & Tailwind CSS · Backend APIs · WordPress & server administration · Website security & malware cleanup
-</details> 
-
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%92%AC+WHAT+CLIENTS+SAY)
-<details> 
-<summary>
-Read Testimonials  ⤵
-</summary>
-
-
-> *"Well done! He did go the extra mile to make the job complete. I would have given you 6 stars if possible."*
-> — **Ray**, Owner @essenundkultur.org
-
-> *"Jowel is very experienced. He delivered the job as requested. I strongly recommend him."*
-> — **Estidama**, Estidama Investment Holding, Riyadh 🇸🇦
-
-> *"Wow. Very impressive. Jowel sped up my site by 4X within a day. No kidding! Absolute gem."*
-> — **Thomas Dunn**, Social Media & Marketing Consultant 🇮🇹
-
-> *"Great experience working with Jowel. He was professional, responsive, and easy to communicate with. The migration was completed successfully. I would gladly work with him again."*
-> — **Tainui M**, Manager @cartecadeaupf.com 🇵🇫
-
-> *"Words can't express how grateful I am that you managed to fix my website issue and also did it so fast. I highly recommend your services."*
-> — **Elly Gomes**, Fashion Consultant
-
-[📋 View all reviews on PeoplePerHour →](https://pph.me/bintofajjal)
-
-</details> 
-
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
-
-<details> 
-
-<summary>
-View Academic Background  ⤵
-</summary>
-
-
-| Institution | Qualification | Period |
-|-------------|--------------|--------|
-| Bangladesh Open University | Diploma in Computer Science & Application | Feb 2026 – Present |
-| Asian University of Bangladesh | BA English | 2015 – 2017 |
-| Madan Mohan College | HSC – Business Studies | 2013 – 2015 |
-| Siraj Uddin Sarker Bidyaniketan | SSC – Business Studies | 2011 – 2013 |
-
-</details> 
-
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8F%86+CERTIFICATIONS)
-
-<details> 
-
-<summary>
-View Certifications  ⤵
-</summary>
-
- 
-- 🇧🇩 **Government Approved Freelancer** — Bangladesh
-  - 🪪 Freelancer ID: `F126514352198`
-- 🎖️ **Certified Web Design Specialist**
-  - 📄 Certificate No.: `13/WD/DHK-66/0051` · Reg. No.: `213390`
-
-</details>
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<img src="./profile/streak.svg" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📫 Get in Touch
-
-<div align="center">
-
-| Channel | Details |
-|---------|---------|
-| 🌐 Portfolio | [jowel.bintofajjal.com](https://jowel.bintofajjal.com) |
-| 📧 Email | [jowel@bintofajjal.com](mailto:jowel@bintofajjal.com) |
-| 💼 LinkedIn | [linkedin.com/in/jowelislamhabib](https://www.linkedin.com/in/jowelislamhabib/) |
-| 📱 Phone | +880 1990 018688 |
-| 💰 Hire Me | [PeoplePerHour Profile](https://pph.me/bintofajjal) |
-
-</div>
-
----
-
-<div align="center">
-
-*"Passionate about building scalable web applications and seamless digital experiences."*
-
-⭐ **If you find my work interesting, feel free to star a repo or reach out — I'm always open to collaborating on meaningful projects!**
-
+  <sub>Open to collaborating on full-stack web applications and scalable digital products.</sub>
 </div>
