@@ -20,8 +20,8 @@
 <!-- ==================== BENTO SECTION 1: BIO, STATUS & UNIFORM ICON STACK ==================== -->
 <table>
   <tr>
-    <!-- BENTO BOX 1: ABOUT ME (Spans 2 columns) -->
-    <td colspan="2" width="62%" valign="top">
+    <!-- BENTO BOX 1: ABOUT ME -->
+    <td width="100%" valign="top">
       <br/>
       <h3>&nbsp;About Me</h3>
       <p>
@@ -34,8 +34,10 @@
       </ul>
       <br/>
     </td>
-    <!-- BENTO BOX 2: CURRENT STATUS (1 column - No Vertical Bar, No Quote) -->
-    <td width="38%" valign="top">
+  </tr>
+  <tr>
+    <!-- BENTO BOX 2: CURRENT STATUS -->
+    <td width="100%" valign="top">
       <br/>
       <h3>&nbsp;Current Status</h3>
       <ul>
@@ -49,8 +51,8 @@
     </td>
   </tr>
   <tr>
-    <!-- BENTO BOX 3: FRONTEND & CORE (8 Icons: 4x2 Grid) -->
-    <td width="33.3%" valign="top" align="center">
+    <!-- BENTO BOX 3: FRONTEND & CORE -->
+    <td width="100%" valign="top" align="center">
       <img width="1000" height="0" />
       <h4 align="center">&nbsp;&nbsp;Frontend & Core</h4>
       <br/>
@@ -59,8 +61,10 @@
       </p>
       <br/>
     </td>
-    <!-- BENTO BOX 4: BACKEND & INFRA (8 Icons: 4x2 Grid) -->
-    <td width="33.3%" valign="top" align="center">
+  </tr>
+  <tr>
+    <!-- BENTO BOX 4: BACKEND & INFRA -->
+    <td width="100%" valign="top" align="center">
       <img width="1000" height="0" />
       <h4 align="center">&nbsp;&nbsp;Backend & Cloud</h4>
       <br/>
@@ -69,8 +73,10 @@
       </p>
       <br/>
     </td>
-    <!-- BENTO BOX 5: TOOLS, CMS & DESIGN (4x2 Uniform 48x48 Square Grid with Shopify & XenForo) -->
-    <td width="33.3%" valign="top" align="center">
+  </tr>
+  <tr>
+    <!-- BENTO BOX 5: TOOLS, CMS & DESIGN -->
+    <td width="100%" valign="top" align="center">
       <img width="1000" height="0" />
       <h4 align="center">&nbsp;&nbsp;Tools, CMS & Design</h4>
       <br/>
@@ -85,8 +91,8 @@
     </td>
   </tr>
   <tr>
-    <!-- BENTO BOX 6: FULL-WIDTH SPECIALIZED APIS, DESIGN SOFTWARE & INTEGRATIONS -->
-    <td colspan="3" align="center" valign="middle">
+    <!-- BENTO BOX 6: SPECIALIZED APIS, DESIGN SOFTWARE & INTEGRATIONS -->
+    <td align="center" valign="middle">
       <br/>
       <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
       <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
@@ -108,10 +114,9 @@
 <h3>Featured Full-Stack Applications</h3>
 
 <table>
-  <!-- ROW 1: FAVICONS, PROJECT TITLES, TAGS & DESCRIPTIONS -->
   <tr>
-    <!-- PROJECT 1 CONTENT -->
-    <td width="33.3%" valign="top">
+    <!-- PROJECT 1 -->
+    <td width="100%" valign="top">
       <img width="1000" height="0" />
       <br/>
       <p align="center">
@@ -127,9 +132,17 @@
       <p>
         Full-stack platform where users discover and book classes, trainers manage sessions, and admins moderate operations with Role-Based Access Control (RBAC).
       </p>
+      <p align="center">
+        <a href="https://gestorfitness.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
+        </a>
+      </p>
+      <br/>
     </td>
-    <!-- PROJECT 2 CONTENT -->
-    <td width="33.3%" valign="top">
+  </tr>
+  <tr>
+    <!-- PROJECT 2 -->
+    <td width="100%" valign="top">
       <img width="1000" height="0" />
       <br/>
       <p align="center">
@@ -145,9 +158,17 @@
       <p>
         Community-driven outage reporting system for electricity, water, gas, and floods featuring verification workflows, interactive safety maps, and moderation.
       </p>
+      <p align="center">
+        <a href="https://area-alert-bd.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
+        </a>
+      </p>
+      <br/>
     </td>
-    <!-- PROJECT 3 CONTENT -->
-    <td width="33.3%" valign="top">
+  </tr>
+  <tr>
+    <!-- PROJECT 3 -->
+    <td width="100%" valign="top">
       <img width="1000" height="0" />
       <br/>
       <p align="center">
@@ -163,30 +184,12 @@
       <p>
         AI-powered platform that transforms raw concepts into structured technical blueprints and SEO-ready blog articles with an integrated analytics dashboard.
       </p>
-    </td>
-  </tr>
-  <!-- ROW 2: DEDICATED ACTION FOOTER (Locks all 3 buttons on the exact same horizontal line) -->
-  <tr>
-    <td width="33.3%" align="center" valign="middle">
+      <p align="center">
+        <a href="https://ideaden.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
+        </a>
+      </p>
       <br/>
-      <a href="https://gestorfitness.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
-      </a>
-      <br/><br/>
-    </td>
-    <td width="33.3%" align="center" valign="middle">
-      <br/>
-      <a href="https://area-alert-bd.vercel.app">
-        <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
-      </a>
-      <br/><br/>
-    </td>
-    <td width="33.3%" align="center" valign="middle">
-      <br/>
-      <a href="https://ideaden.vercel.app">
-        <img src="https://img.shields.io/badge/Live_Application-238636?style=for-the-badge" alt="Live Application" />
-      </a>
-      <br/><br/>
     </td>
   </tr>
 </table>
@@ -199,14 +202,16 @@
 <table>
   <tr>
     <!-- GITHUB STREAK CARD -->
-    <td width="50%" valign="middle" align="center">
+    <td width="100%" valign="middle" align="center">
       <img width="1000" height="0" />
       <br/>
       <img src="./profile/streak.svg" alt="GitHub Streak" width="92%" />
       <br/><br/>
     </td>
+  </tr>
+  <tr>
     <!-- CLIENT TESTIMONIALS BENTO CARD -->
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <img width="1000" height="0" />
       <br/>
       <h4>&nbsp;&nbsp;Client Testimonials</h4>
@@ -225,8 +230,8 @@
     </td>
   </tr>
   <tr>
-    <!-- CONTRIBUTION SNAKE (Spans full width of the bento) -->
-    <td colspan="2" align="center">
+    <!-- CONTRIBUTION SNAKE -->
+    <td align="center">
       <br/>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JowelislamHabib/JowelislamHabib/output/github-snake-dark.svg" />
@@ -242,8 +247,7 @@
 <!-- ==================== BENTO SECTION 4: EQUAL-WIDTH DRAWERS ==================== -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <!-- Invisible spacer locks column at exactly 50% width even when minimized -->
+    <td width="100%" valign="top">
       <img width="1000" height="0" />
       <details>
         <summary><b>CMS & Infrastructure Portfolio (7+ Live Sites)</b></summary>
@@ -260,8 +264,9 @@
         <br/>
       </details>
     </td>
-    <td width="50%" valign="top">
-      <!-- Invisible spacer locks column at exactly 50% width even when minimized -->
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <img width="1000" height="0" />
       <details>
         <summary><b>Education & Professional Credentials</b></summary>
