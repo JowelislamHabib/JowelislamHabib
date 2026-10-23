@@ -247,7 +247,7 @@
       <!-- Invisible spacer locks column at exactly 50% width even when minimized -->
       <img width="1000" height="0" />
       <details>
-        <summary><b>Commercial CMS & Infrastructure Portfolio (7+ Live Sites)</b></summary>
+        <summary><b>CMS & Infrastructure Portfolio (7+ Live Sites)</b></summary>
         <br/>
         <ul>
           <li><b><a href="https://www.cointax.co.uk/">CoinTax (UK)</a></b> — Figma-to-WordPress build for UK crypto accounting firm</li>
