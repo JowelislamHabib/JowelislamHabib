@@ -2,7 +2,6 @@
 
 ![Github Banner](https://i.postimg.cc/02V2T0jq/Github-Banner-TF.png)
 
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=FF7B72&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(Next.js+%E2%80%A2+MERN+%E2%80%A2+TypeScript);Building+Scalable+Web+Apps+%26+AI-Powered+Solutions;45%2B+Completed+Client+Projects+%26+Server+Infrastructure" alt="Typing SVG" />
 
