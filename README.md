@@ -197,6 +197,7 @@
 <h3>Activity & Client Feedback</h3>
 
 <table>
+  <tr></tr>
   <tr>
     <!-- GITHUB STREAK CARD -->
     <td width="50%" valign="middle" align="center">
@@ -224,6 +225,7 @@
       <br/>
     </td>
   </tr>
+
   <tr>
     <!-- CONTRIBUTION SNAKE (Spans full width of the bento) -->
     <td colspan="2" align="center">
@@ -241,6 +243,7 @@
 
 <!-- ==================== BENTO SECTION 4: EQUAL-WIDTH DRAWERS ==================== -->
 <table>
+  <tr></tr>
   <tr>
     <td width="50%" valign="top">
       <!-- Invisible spacer locks column at exactly 50% width even when minimized -->
