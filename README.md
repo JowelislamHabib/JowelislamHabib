@@ -39,10 +39,13 @@
       <br/>
       <h3>&nbsp;Current Status</h3>
       <ul>
-        <li><b>Current Role:</b> Frontend Developer <code>@ Roaming Bangladesh</code></li>
+        <li><b>Current Role:</b> Frontend Developer <code><b><a href="https://github.com/Roaming-Bangladesh" target="_blank" rel="noopener noreferrer">@Roaming Bangladesh</a></b></code></li>
         <li><b>Work Mode:</b> Remote & On-site</li>
         <li><b>Focus:</b> Full-Stack & Frontend Engineering</li>
-        <li><b>Track Record:</b> 45+ Client Projects</li>
+        <li>
+          <b>Track Record:</b> Delivered 45+ client projects and gained 7+ years of professional remote work experience with
+          <b><a href="http://comallies.com/" target="_blank" rel="noopener noreferrer">Comallies LLC</a></b> and <b><a href="https://estidama.com.sa/" target="_blank" rel="noopener noreferrer">Estidama VC</a></b>.
+        </li>
         <li><b>Freelancer ID:</b> <code>F126514352198</code></li>
       </ul>
       <br/>
